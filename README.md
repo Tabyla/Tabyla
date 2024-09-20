@@ -27,7 +27,7 @@
 
 🛠️ **Skills:**
 - **Languages:** PHP, PostgreSQL, MySQL, HTML, CSS, JavaScript, C#
-- **Frameworks:** Laravel, Yii 2, SASS, Vue JS
+- **Frameworks:** Laravel, Yii 2, SASS, Bootstrap, Vue JS
 - **Tools:** PhpStorm, VS Code, Postman, GitHub, WordPress
 - **Deployment:** Docker
 - **Other:** Linux
